@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdimajiid Ali and I'm a Web Developer from South Africa.</h2>
+<h2 align="left">Hi 👋! My name is Abdimajiid Ali. I'm a software developer mainly focused on web development, and sometimes get the inspiration to create games on the side.</h2>
 
 ###
 
