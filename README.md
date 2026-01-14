@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋What are you doing?👀👀?</h1>
+<h1 align="center">Hey👋What are you doing?👀</h1>
 
 ###
 
